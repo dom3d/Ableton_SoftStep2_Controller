@@ -80,7 +80,7 @@ A different API to read or modify Ableton's session view * made it easier for me
 	( get live app, show status message)
 
 ### Custom MidiMsg helper to hide required byte manipulation when working with Midi
-* Easier Compositoin / Decomposition for
+* Easier Composition / Decomposition for
 	type, channel, data 1 and data 2
 * is_cc 
 * types are
